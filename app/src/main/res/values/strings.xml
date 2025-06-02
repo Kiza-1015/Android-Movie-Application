@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="title_activity_movie_search">MovieSearch</string>
+    <string name="title_activity_actor_search">ActorSearch</string>
+    <string name="title_activity_search_all">SearchAll</string>
+</resources>
